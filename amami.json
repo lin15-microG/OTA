@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1575657245,
-      "filename": "lineage-15.1-20191206-UNOFFICIAL-microG-signed-amami.zip",
-      "id": "a0efe9bfe596a93f739548018087d270",
+      "datetime": 1579022603,
+      "filename": "lineage-15.1-20200114-UNOFFICIAL-microG-signed-amami.zip",
+      "id": "6408092cc959da7012598ba3eebf053a",
       "romtype": "UNOFFICIAL-microG-signed",
-      "size": 422466343,
-      "url": "https://sourceforge.net/projects/lin15-microg/files/amami/lineage-15.1-20191206-UNOFFICIAL-microG-signed-amami.zip/download",
+      "size": 418447440,
+      "url": "https://sourceforge.net/projects/lin15-microg/files/amami/lineage-15.1-20200114-UNOFFICIAL-microG-signed-amami.zip/download",
       "version": "15.1"
     }
   ]
